@@ -75,11 +75,11 @@
 		    <url>http://nexus:8081/repository/testgib/</url>
 	    </repository>
     </distributionManagement>
-    <servers>
-	    <server>
+    	<servers>
+	    	<server>
 		    <id>nexus</id>
 		    <username>admin</username>
 		    <password>admin</password>
-   </server>
-</servers>
+   		</server>
+	</servers>
 </project>
