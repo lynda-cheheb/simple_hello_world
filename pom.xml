@@ -70,9 +70,9 @@
         </plugins>
     </build>
     <distributionManagement>
-	    <Repository>
+	    <repository>
 		    <id>nexus</id>
 		    <url>http://nexus:8081/repository/testgib/</url>
-	    </Repository>
+	    </repository>
     </distributionManagement>
 </project>
