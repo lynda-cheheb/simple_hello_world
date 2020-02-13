@@ -56,7 +56,7 @@
     <distributionManagement>
 	    <snapshotRepository>
 		    <id>nexus-snapshots</id>
-		    <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+		    <url>http://nexus:8081/repository/maven-releases</url>
 	    </snapshotRepository>
 	</distributionManagement>
 </project>
