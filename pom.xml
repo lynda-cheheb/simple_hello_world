@@ -72,7 +72,7 @@
     <distributionManagement>
 	    <snapshotRepository>
 		    <id>nexus-snapshots</id>
-		    <url>http://nexus:8081/repository/maven-releases</url>
+		    <url>http://nexus:8081/repository/testgib/</url>
 	    </snapshotRepository>
     </distributionManagement>
 </project>
